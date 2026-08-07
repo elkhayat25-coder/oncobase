@@ -1,0 +1,22 @@
+[
+  {
+    "drugId": 1,
+    "drug": "Tagrisso",
+    "mechanism": "Third-generation EGFR tyrosine kinase inhibitor that irreversibly inhibits EGFR sensitizing mutations (Ex19del, L858R) and the T790M resistance mutation while sparing wild-type EGFR."
+  },
+  {
+    "drugId": 2,
+    "drug": "Imfinzi",
+    "mechanism": "Human monoclonal antibody that blocks PD-L1 binding to PD-1 and CD80, restoring T-cell mediated antitumor immune responses."
+  },
+  {
+    "drugId": 3,
+    "drug": "Keytruda",
+    "mechanism": "Humanized monoclonal antibody targeting PD-1, preventing interaction with PD-L1 and PD-L2 to enhance T-cell antitumor activity."
+  },
+  {
+    "drugId": 4,
+    "drug": "Rybrevant",
+    "mechanism": "Fully human bispecific antibody targeting EGFR and MET receptors, promoting receptor degradation and immune-mediated tumor cell killing."
+  }
+]
